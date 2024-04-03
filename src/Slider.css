@@ -1,0 +1,37 @@
+img {
+    width: 100%;
+}
+.containerClassName {
+    position: relative;
+    top: 30px;
+}
+
+.containerClassName button {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+
+.nextButtonClassName {
+    font-size: 2rem !important;
+    color: rgb(255, 255, 255) !important;
+    background: rgba(0, 0, 0, 0.3) !important;
+
+}
+
+.prevButtonClassName {
+    font-size: 2rem;
+    color: rgb(255, 255, 255) !important;
+    background: rgba(0, 0, 0, 0.3) !important;
+}
+
+.slider-control-bottomcenter button{
+    background: black !important;
+    border-radius: 50%; 
+    width: 15px !important;
+    height: 15px !important;
+  }
+
+  .slider-container{
+    padding: 10px;
+  }
