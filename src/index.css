@@ -27,6 +27,16 @@ h1{
   font-family: 'Courgette', cursive;
 }
 
+h2{
+  color:rgb(255, 255, 255);
+}
+h4{
+  color:rgb(255, 255, 255);
+}
+h5{
+  color:rgb(255, 255, 255);
+}
+
 p{
   color:aliceblue;
   text-indent: 30px;

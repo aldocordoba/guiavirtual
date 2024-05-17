@@ -1,5 +1,5 @@
 export default function MenuIdiomas(){
-    
+
     return (
         <div className="menuIdiomasContainer">
         <nav className="menu_idiomas">

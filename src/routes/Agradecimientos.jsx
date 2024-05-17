@@ -10,12 +10,9 @@ export default function Agradecimientos(){
             <h4>Coordinación, diseño y programación</h4>
             <h5>Aldo F Cordoba Lozano</h5>
             <h4>Revisión de contenidos</h4>
-            <h5>Eduardo Montejano</h5>
+            <h5>Eduardo Montejano, Patricia Quintana.</h5>
             <h4>Contenidos en lengua náhuatl</h4>
-            <h5>Genaro Hernández Sánchez</h5>
-            <h5>Alumno 1</h5>
-            <h5>Alumno 2</h5>
-            <h5>Alumno 3</h5>
+            <h5>Genaro Hernández Sánchez, Roxana Gabriela Jimenez Arrieta, Salvador Larrea Alonso, Diana Isabel Esparza Gutiérrez, Rogelio Rodríguez Moreno, Amanda González Martínez, Valeria Quijano Manzo, Perla Guadalupe Torres de la Torre.</h5>
             </div>
         </div>
     );

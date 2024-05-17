@@ -75,7 +75,7 @@ export default function Nahuatl(){
                 <Boton2 onClick={() => cambiarEstadoModal11(!estadoModal11)}>Foro al aire libre</Boton2>
                 <Boton2 onClick={() => cambiarEstadoModal12(!estadoModal12)}>Palmera xochimilli</Boton2>
                 <Boton2 onClick={() => cambiarEstadoModal13(!estadoModal13)}>Cactaceas Xochimilli</Boton2>
-                <Boton2 onClick={() => cambiarEstadoModal14(!estadoModal14)}>kalkwawenchotik ikaltlapan</Boton2>
+                <Boton2 onClick={() => cambiarEstadoModal14(!estadoModal14)}>kalkwawenchotik</Boton2>
                 <Boton2 onClick={() => cambiarEstadoModal15(!estadoModal15)}>Atekatl ikalpan</Boton2>
                 <Boton2 onClick={() => cambiarEstadoModal16(!estadoModal16)}>Teposkaltsahkayotl</Boton2>
             </div>

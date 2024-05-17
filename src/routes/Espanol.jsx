@@ -78,7 +78,7 @@ export default function Espanol(){
                 <Boton2 onClick={() => cambiarEstadoModal14(!estadoModal14)}>Casa Rosa</Boton2>
                 <Boton2 onClick={() => cambiarEstadoModal15(!estadoModal15)}>Espejo de agua</Boton2>
                 <Boton2 onClick={() => cambiarEstadoModal16(!estadoModal16)}>Puerta de hierro</Boton2>
-                <Boton2 onClick={() => cambiarEstadoModal17(!estadoModal17)}>Imágenes históricas</Boton2>
+                {/*<Boton2 onClick={() => cambiarEstadoModal17(!estadoModal17)}>Imágenes históricas</Boton2>*/}
             </div>
 
             <Modal 
@@ -381,7 +381,7 @@ export default function Espanol(){
                     <p>Hoy en día usted puede ver este homenaje a José Vega, el nombre se lee mirando la puerta hacía la plaza Centenario. Para los reclusos este gesto representó una muestra del compañerismo y la solidaridad que reconocían en este destacado director del penal.</p>
                 </Contenido>
             </Modal>
-            <Modal 
+           {/* <Modal 
                 estado = {estadoModal17}
                 cambiarEstado = {cambiarEstadoModal17}
                 titulo = "Imágenes históricas"
@@ -391,11 +391,9 @@ export default function Espanol(){
                 padding={''}
             >
                 <Contenido>
-                    <p>José Vega fue un personaje importante</p>
-                    <p>A la banda oficial</p>
-                    <Slider/>
+                   <Slider/>
                 </Contenido>
-            </Modal>
+    </Modal>*/}
 
         </div>
     );
